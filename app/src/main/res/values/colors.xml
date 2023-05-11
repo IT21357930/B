@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+
+    ----------------------------------------------------------------
+    <color name="my_profile_M_L">#000000</color>
+    <color name="my_profile_M_O">#000000</color>
+    <color name="my_profile_M_P_D">#000000</color>
+    <color name="my_profile_M_D">#000000</color>
+    ------------------------------------------------------------------
+    <color name="my_listing_E_1">#000000</color>
+    <color name="my_listing_E_2">#000000</color>
+    <color name="my_listing_E_3">#000000</color>
+    <color name="my_listing_E_4">#000000</color>
+    ------------------------------------------------------------------
+    <color name="my_order_E_1">#000000</color>
+    <color name="my_order_E_2">#000000</color>
+    <color name="my_order_E_3">#000000</color>
+    <color name="my_order_E_4">#000000</color>
+</resources>

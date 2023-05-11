@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">ClickIn</string>
+
+    ---------------------------------------------------------------------------
+    <string name="my_order_H">MY ORDER</string>
+    <string name="my_order_SAND">SAND</string>
+    <string name="my_order_S_O_D">ORDER DATE</string>
+    <string name="my_order_S_Q">Quantity</string>
+    <string name="my_order_S_P_O">PLACE ORDER</string>
+
+    <string name="my_order_BRICK">BRICK</string>
+    <string name="my_order_B_O_D">ORDER DATE</string>
+    <string name="my_order_B_Q">Quantity</string>
+    <string name="my_order_B_P_O">PLACE ORDER</string>
+
+    <string name="my_order_CEMENT">CEMENT</string>
+    <string name="my_order_C_O_D">ORDER DATE</string>
+    <string name="my_order_C_Q">Quantity</string>
+    <string name="my_order_C_P_O">PLACE ORDER</string>
+
+    <string name="my_order_PEBBLES">PEBBLES</string>
+    <string name="my_order_P_O_D">ORDER DATE</string>
+    <string name="my_order_P_Q">Quantity</string>
+    <string name="my_order_P_P_O">PLACE ORDER</string>
+    ------------------------------------------------------------------
+    <string name="my_listing_H">MY LISTING</string>
+    <string name="my_listing_SAND">SAND</string>
+    <string name="my_listing_S_R">Rs.10000.00</string>
+    <string name="my_listing_S_Q_O_G">Quantity of goods = 3</string>
+    <string name="my_listing_S_E_L">EDIT LISTING</string>
+
+    <string name="my_listing_BRICK">BRICK</string>
+    <string name="my_listing_B_R">Rs.10000.00</string>
+    <string name="my_listing_B_Q_O_G">Quantity of goods = 3</string>
+    <string name="my_listing_B_E_L">EDIT LISTING</string>
+
+    <string name="my_listing_CIMENT">CEMENT</string>
+    <string name="my_listing_C_R">Rs.10000.00</string>
+    <string name="my_listing_C_Q_O_G">Quantity of goods = 3</string>
+    <string name="my_listing_C_E_L">EDIT LISTING</string>
+
+    <string name="my_listing_PEBBLES">PEBBLES</string>
+    <string name="my_listing_P_R">Rs.10000.00</string>
+    <string name="my_listing_P_Q_O_G">Quantity of goods = 3</string>
+    <string name="my_listing_P_E_L">EDIT LISTING</string>
+    ---------------------------------------------------------------------------
+    <string name="my_details_H">CUSTOMER</string>
+    <string name="my_details_NAME">NAME  -   yasiith hansaka</string>
+    <string name="my_details_ADDRESS">ADDRESS - 190/2 ,MALABE ,COLOMBO.</string>
+    <string name="my_details_PHONE">PHONE -   07771991997</string>
+    <string name="my_details_EMAIL">EMAIL -  yasithhansaka@gmail.com</string>
+    <string name="my_details_PASSWORD">PASSWORD   -     ***********</string>
+    <string name="my_details_USER">USER NAME  -  yasith</string>
+    <string name="my_details_EDIT">EDIT DETAILS</string>
+    ---------------------------------------------------------------------------------------
+    <string name="my_profile_H">MY PROFILE</string>
+    <string name="my_profile_NAME">YASITH  HANSAKA</string>
+    <string name="my_profile_EMAIL">yasithhansaka@gmail.com</string>
+    <string name="my_profile_M_L">MY LISTING</string>
+    <string name="my_profile_M_O">MY ORDER</string>
+    <string name="my_profile_M_P_D">MY PAYMENT DETAILS</string>
+    <string name="my_profile_M_D">MY DETAILS</string>
+
+    <string name="supplier_name">Customer_NAME</string>
+    <string name="enter_supplier_details">ENTER_CUSTOMER_DETAILS</string>
+    <string name="todo">TODO</string>
+
+</resources>
